@@ -42,7 +42,7 @@ Installation:
 3.npm install
 
 Run The Project:
-1.npm run dev
+npm run dev
 
 Live Preview : https://64e0e179011d585e940f13ab--shimmering-pastelito-79ed0b.netlify.app/
 
