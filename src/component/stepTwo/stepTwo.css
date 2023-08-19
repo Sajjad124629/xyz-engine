@@ -1,0 +1,13 @@
+@media (max-width: 639px) {
+   .custom-responsive{
+    margin-left: 25px;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+   }
+   .custom-responsive-for-max-min{
+    margin-left: 25px;
+    align-items: center;
+   }
+}
